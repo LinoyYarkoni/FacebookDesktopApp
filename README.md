@@ -27,7 +27,7 @@ The user can also set a timer for the requested time of using the application
 * Create an application account on https://developers.facebook.com/apps to get an App ID.
 * In Visual Studio add a reference to the .dll files (FbGraphApiWrapper.dll, Facebook.dll).
 * Use the static login method:
-`LoginResult = FacebookWrapper.FacebookService.Login(AppID, list of permission);`
+`LoginResult = FacebookWrapper.FacebookService.Login(AppID, list of permission);` \n
 providing your AppID and the permissions required from your app's user to display a login form to your user. For the list of permissions, see this https://developers.facebook.com/docs/facebook-login/permissions.
 
 ## Resources:
