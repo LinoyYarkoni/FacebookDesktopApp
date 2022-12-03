@@ -1,6 +1,6 @@
 # Facebook Desktop App
 
-### The application is a WinForms .NET Facebook application using Facebook API.
+### The is a WinForms .NET Facebook application using Facebook API and Design Patterns.
 
 ## TECHSTACK:
 * Multi-Threading
